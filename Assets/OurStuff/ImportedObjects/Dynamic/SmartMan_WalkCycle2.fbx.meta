@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 154936d4c5850cf468ffcea11780ca34
+timeCreated: 1460828235
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ankle_jnt_left
+    100002: ankle_jnt_right
+    100004: clavicle_jnt_left
+    100006: clavicle_jnt_right
+    100008: CTRL_arm_left
+    100010: CTRL_arm_right
+    100012: CTRL_foot_left
+    100014: CTRL_foot_right
+    100016: CTRL_head
+    100018: CTRL_Hip
+    100020: CTRL_Main
+    100022: CTRL_root
+    100024: CTRL_torso
+    100026: elbow_jnt_left
+    100028: elbow_jnt_right
+    100030: finger_jnt_left
+    100032: finger_jnt_right
+    100034: foot_jnt_left
+    100036: foot_jnt_right
+    100038: hand_jnt_left
+    100040: hand_jnt_right
+    100042: head_jnt
+    100044: hip_jnt_left
+    100046: hip_jnt_right
+    100048: ikHandle1
+    100050: ikHandle2
+    100052: ikHandle3
+    100054: ikHandle4
+    100056: knee_jnt_left
+    100058: knee_jnt_right
+    100060: neck_jnt
+    100062: root_jnt
+    100064: shoulder_jnt_left
+    100066: shoulder_jnt_right
+    100068: SmartMan
+    100070: SmartMan_Tongue
+    100072: //RootNode
+    100074: spine2_jnt
+    100076: spine_jnt
+    100078: tongue
+    100080: tongue2
+    100082: tongue3
+    100084: tongue4
+    100086: tongue5
+    400000: ankle_jnt_left
+    400002: ankle_jnt_right
+    400004: clavicle_jnt_left
+    400006: clavicle_jnt_right
+    400008: CTRL_arm_left
+    400010: CTRL_arm_right
+    400012: CTRL_foot_left
+    400014: CTRL_foot_right
+    400016: CTRL_head
+    400018: CTRL_Hip
+    400020: CTRL_Main
+    400022: CTRL_root
+    400024: CTRL_torso
+    400026: elbow_jnt_left
+    400028: elbow_jnt_right
+    400030: finger_jnt_left
+    400032: finger_jnt_right
+    400034: foot_jnt_left
+    400036: foot_jnt_right
+    400038: hand_jnt_left
+    400040: hand_jnt_right
+    400042: head_jnt
+    400044: hip_jnt_left
+    400046: hip_jnt_right
+    400048: ikHandle1
+    400050: ikHandle2
+    400052: ikHandle3
+    400054: ikHandle4
+    400056: knee_jnt_left
+    400058: knee_jnt_right
+    400060: neck_jnt
+    400062: root_jnt
+    400064: shoulder_jnt_left
+    400066: shoulder_jnt_right
+    400068: SmartMan
+    400070: SmartMan_Tongue
+    400072: //RootNode
+    400074: spine2_jnt
+    400076: spine_jnt
+    400078: tongue
+    400080: tongue2
+    400082: tongue3
+    400084: tongue4
+    400086: tongue5
+    4300000: SmartMan
+    4300002: SmartMan_Tongue
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: SmartMan
+    13700002: SmartMan_Tongue
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 31
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CTRL_Main
+        weight: 1
+      - path: CTRL_Main/CTRL_foot_left
+        weight: 1
+      - path: CTRL_Main/CTRL_foot_left/ikHandle3
+        weight: 1
+      - path: CTRL_Main/CTRL_foot_right
+        weight: 1
+      - path: CTRL_Main/CTRL_foot_right/ikHandle4
+        weight: 1
+      - path: CTRL_Main/CTRL_root
+        weight: 1
+      - path: CTRL_Main/CTRL_root/CTRL_Hip
+        weight: 1
+      - path: CTRL_Main/CTRL_root/CTRL_Hip/CTRL_torso
+        weight: 1
+      - path: CTRL_Main/CTRL_root/CTRL_Hip/CTRL_torso/CTRL_arm_left
+        weight: 1
+      - path: CTRL_Main/CTRL_root/CTRL_Hip/CTRL_torso/CTRL_arm_left/ikHandle2
+        weight: 1
+      - path: CTRL_Main/CTRL_root/CTRL_Hip/CTRL_torso/CTRL_arm_right
+        weight: 1
+      - path: CTRL_Main/CTRL_root/CTRL_Hip/CTRL_torso/CTRL_arm_right/ikHandle1
+        weight: 1
+      - path: CTRL_Main/CTRL_root/CTRL_Hip/CTRL_torso/CTRL_head
+        weight: 1
+      - path: CTRL_Main/CTRL_root/CTRL_Hip/CTRL_torso/CTRL_head/tongue
+        weight: 1
+      - path: CTRL_Main/CTRL_root/CTRL_Hip/CTRL_torso/CTRL_head/tongue/tongue2
+        weight: 1
+      - path: CTRL_Main/CTRL_root/CTRL_Hip/CTRL_torso/CTRL_head/tongue/tongue2/tongue3
+        weight: 1
+      - path: CTRL_Main/CTRL_root/CTRL_Hip/CTRL_torso/CTRL_head/tongue/tongue2/tongue3/tongue4
+        weight: 1
+      - path: CTRL_Main/CTRL_root/CTRL_Hip/CTRL_torso/CTRL_head/tongue/tongue2/tongue3/tongue4/tongue5
+        weight: 1
+      - path: CTRL_Main/root_jnt
+        weight: 1
+      - path: CTRL_Main/root_jnt/hip_jnt_left
+        weight: 1
+      - path: CTRL_Main/root_jnt/hip_jnt_left/knee_jnt_left
+        weight: 1
+      - path: CTRL_Main/root_jnt/hip_jnt_left/knee_jnt_left/ankle_jnt_left
+        weight: 1
+      - path: CTRL_Main/root_jnt/hip_jnt_left/knee_jnt_left/ankle_jnt_left/foot_jnt_left
+        weight: 1
+      - path: CTRL_Main/root_jnt/hip_jnt_right
+        weight: 1
+      - path: CTRL_Main/root_jnt/hip_jnt_right/knee_jnt_right
+        weight: 1
+      - path: CTRL_Main/root_jnt/hip_jnt_right/knee_jnt_right/ankle_jnt_right
+        weight: 1
+      - path: CTRL_Main/root_jnt/hip_jnt_right/knee_jnt_right/ankle_jnt_right/foot_jnt_right
+        weight: 1
+      - path: CTRL_Main/root_jnt/spine_jnt
+        weight: 1
+      - path: CTRL_Main/root_jnt/spine_jnt/spine2_jnt
+        weight: 1
+      - path: CTRL_Main/root_jnt/spine_jnt/spine2_jnt/clavicle_jnt_left
+        weight: 1
+      - path: CTRL_Main/root_jnt/spine_jnt/spine2_jnt/clavicle_jnt_left/shoulder_jnt_left
+        weight: 1
+      - path: CTRL_Main/root_jnt/spine_jnt/spine2_jnt/clavicle_jnt_left/shoulder_jnt_left/elbow_jnt_left
+        weight: 1
+      - path: CTRL_Main/root_jnt/spine_jnt/spine2_jnt/clavicle_jnt_left/shoulder_jnt_left/elbow_jnt_left/hand_jnt_left
+        weight: 1
+      - path: CTRL_Main/root_jnt/spine_jnt/spine2_jnt/clavicle_jnt_left/shoulder_jnt_left/elbow_jnt_left/hand_jnt_left/finger_jnt_left
+        weight: 1
+      - path: CTRL_Main/root_jnt/spine_jnt/spine2_jnt/clavicle_jnt_right
+        weight: 1
+      - path: CTRL_Main/root_jnt/spine_jnt/spine2_jnt/clavicle_jnt_right/shoulder_jnt_right
+        weight: 1
+      - path: CTRL_Main/root_jnt/spine_jnt/spine2_jnt/clavicle_jnt_right/shoulder_jnt_right/elbow_jnt_right
+        weight: 1
+      - path: CTRL_Main/root_jnt/spine_jnt/spine2_jnt/clavicle_jnt_right/shoulder_jnt_right/elbow_jnt_right/hand_jnt_right
+        weight: 1
+      - path: CTRL_Main/root_jnt/spine_jnt/spine2_jnt/clavicle_jnt_right/shoulder_jnt_right/elbow_jnt_right/hand_jnt_right/finger_jnt_right
+        weight: 1
+      - path: CTRL_Main/root_jnt/spine_jnt/spine2_jnt/neck_jnt
+        weight: 1
+      - path: CTRL_Main/root_jnt/spine_jnt/spine2_jnt/neck_jnt/head_jnt
+        weight: 1
+      - path: SmartMan
+        weight: 1
+      - path: SmartMan_Tongue
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 35
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

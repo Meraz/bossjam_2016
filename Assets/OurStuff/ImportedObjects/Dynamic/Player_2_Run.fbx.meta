@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: a533fcc2a6c58994aace43ce1c96dbc4
+timeCreated: 1460853437
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ankle_jnt_left
+    100002: ankle_jnt_right
+    100004: CTRL_arm_left
+    100006: CTRL_arm_right
+    100008: CTRL_foot_left
+    100010: CTRL_foot_right
+    100012: CTRL_head
+    100014: CTRL_MAIN
+    100016: CTRL_torso
+    100018: elbow_jnt_left
+    100020: elbow_jnt_right
+    100022: foot_jnt_left
+    100024: foot_jnt_right
+    100026: hand2_jnt_left
+    100028: hand2_jnt_right
+    100030: hand_jnt_left
+    100032: hand_jnt_right
+    100034: head1_jnt
+    100036: head2_jnt
+    100038: hip_jnt_left
+    100040: hip_jnt_right
+    100042: ikHandle1
+    100044: ikHandle2
+    100046: ikHandle3
+    100048: ikHandle4
+    100050: knee_jnt_left
+    100052: knee_jnt_right
+    100054: neck2_jnt
+    100056: neck_jnt
+    100058: Player_1
+    100060: //RootNode
+    100062: root_jnt
+    100064: shoulder_jnt_left
+    100066: shoulder_jnt_right
+    400000: ankle_jnt_left
+    400002: ankle_jnt_right
+    400004: CTRL_arm_left
+    400006: CTRL_arm_right
+    400008: CTRL_foot_left
+    400010: CTRL_foot_right
+    400012: CTRL_head
+    400014: CTRL_MAIN
+    400016: CTRL_torso
+    400018: elbow_jnt_left
+    400020: elbow_jnt_right
+    400022: foot_jnt_left
+    400024: foot_jnt_right
+    400026: hand2_jnt_left
+    400028: hand2_jnt_right
+    400030: hand_jnt_left
+    400032: hand_jnt_right
+    400034: head1_jnt
+    400036: head2_jnt
+    400038: hip_jnt_left
+    400040: hip_jnt_right
+    400042: ikHandle1
+    400044: ikHandle2
+    400046: ikHandle3
+    400048: ikHandle4
+    400050: knee_jnt_left
+    400052: knee_jnt_right
+    400054: neck2_jnt
+    400056: neck_jnt
+    400058: Player_1
+    400060: //RootNode
+    400062: root_jnt
+    400064: shoulder_jnt_left
+    400066: shoulder_jnt_right
+    4300000: Player_1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Player_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 60
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
